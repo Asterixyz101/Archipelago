@@ -42,7 +42,7 @@
     "modern_id": null
   },
   "ITEM_BADGE_8": {
-    "label": "´Beacon Badge",
+    "label": "Â´Beacon Badge",
     "classification": "PROGRESSION",
     "tags": ["Badge", "Unique"],
     "modern_id": null
@@ -2541,7 +2541,6 @@
   },
 
 
-
   "ITEM_AZURE_FLUTE": {
     "label": "Azure Flute",
     "classification": "PROGRESSION",
@@ -2559,5 +2558,5 @@
     "classification": "PROGRESSION",
     "tags": ["Event","Unique"],
     "modern_id": 452
-  },
+  }
 }
